@@ -1,6 +1,6 @@
 {
     "name": "com.passivestar.importhints",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "displayName": "Import Hints",
     "description": "Sync prefabs, probes and zones from the imported models",
     "license": "See LICENSE.md",
